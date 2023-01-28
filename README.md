@@ -1,13 +1,17 @@
-### @Author:Saksham Trivedi aka SK
-## @Tittle: Python scripts from basics to various purposes
---------------------------------------------------------------------------
+# Python
 
-#### The Repo folder are sorted out based on contents they consists of
-##### Below is a list of folders along with description of content
+## The Repository contains all the python files
 
-> - **Basics** : Contains all the python fundamentals 
+Below are Files/Directories along with it's description 
 
-Note: The folder will be upadated from time to time
+- **Basics** : *Contains all the python fundamentals*
+
+- **Jupyter-Keybindings** : Contains all the Jupyter keyboard Shortcuts 
+
+`(Jupyter Keybindings for efficient use)`
+
+
+> **Note:** All the work is proprietary, Do not use of any item/work without permission/concern.
 
 Thanks,
-SK
+### @Author: SK
